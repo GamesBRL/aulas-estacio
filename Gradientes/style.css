@@ -1,0 +1,7 @@
+.grad{
+    background: linear-gradient(55deg, rgb(0, 255, 191), rgba(0, 128, 0, 0.557));
+    width: auto;
+    padding: 20px;
+    margin: auto;
+    border-radius: 10px;
+}
